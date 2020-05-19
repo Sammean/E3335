@@ -1,1 +1,1 @@
-a 
+Application layer protocol service configuration
